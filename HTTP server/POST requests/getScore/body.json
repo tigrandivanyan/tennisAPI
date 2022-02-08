@@ -1,8 +1,0 @@
-{
-    "tourID":"String",
-    "player1":"Number",
-    "player2":"Number",
-    "wonGames1":"Number",
-    "wonGames2":"Number",
-    "names":"Object"
-}

@@ -1,9 +1,0 @@
-{
-    "graphic":[
-        {"player1":"String", "player2":"String", "judge":"String"},
-        {"player1":"String", "player2":"String", "judge":"String"},
-        {"player1":"String", "player2":"String", "judge":"String"},
-        {"player1":"String", "player2":"String", "judge":"String"},
-        {"player1":"String", "player2":"String", "judge":"String"}
-    ]
-}
