@@ -1,0 +1,52 @@
+{
+    "gameStatus":"upcoming",
+    "people":{
+        "player1":"6195f4d5871c63006ae68588",
+        "player2":"6195f4d5871c63006ae68588",
+        "judge":"6195f4d5871c63006ae68588"
+    }
+}
+  
+{
+    "gameStatus":"in_process",
+    "people":{
+        "player1":"6195f4d5871c63006ae68588",
+        "player2":"6195f4d5871c63006ae68588",
+        "judge":"6195f4d5871c63006ae68588"
+    },
+    "wonGames1":"0",
+    "wonGames2":"3",
+    "finishedSetsQuantity":"2",
+    "startTime":"Thu Nov 18 2021 06:41:13 GMT+0000 (Coordinated Universal Time)",
+}
+  
+{
+    "gameStatus":"finished",
+    "wonPlayerID":"6195f4d5871c63006ae68588",
+    "startTime":"Thu Nov 18 2021 06:41:13 GMT+0000 (Coordinated Universal Time)",
+    "finishTime":"Thu Nov 18 2021 06:59:43 GMT+0000 (Coordinated Universal Time)",
+    "people":{
+        "player1":"6195f4d5871c63006ae68588",
+        "player2":"6195f4d5871c63006ae68588",
+        "judge":"6195f4d5871c63006ae68588"
+    },
+    "finishedSetsQuantity":"6",
+    "wonGames1":"1",
+    "wonGames2":"5",
+}
+  
+{
+    "gameStatus":"checked",
+    "wonPlayerID":"6195f4d5871c63006ae68588",
+    "startTime":"Thu Nov 18 2021 06:41:13 GMT+0000 (Coordinated Universal Time)",
+    "finishTime":"Thu Nov 18 2021 06:59:43 GMT+0000 (Coordinated Universal Time)",
+    "people":{
+        "player1":"6195f4d5871c63006ae68588",
+        "player2":"6195f4d5871c63006ae68588",
+        "judge":"6195f4d5871c63006ae68588"
+    },
+    "finishedSetsQuantity":"6",
+    "wonGames1":"1",
+    "wonGames2":"5",
+}
+ 
