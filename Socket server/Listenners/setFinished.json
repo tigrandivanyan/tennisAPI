@@ -1,0 +1,9 @@
+{
+    "tourID":"String",
+    "setNumber":"String",
+    "player1":"String",
+    "player2":"String",
+    "wonPlayer":"Sting",
+    "names":{"player1":"String", "player2":"String"},
+    "source":"String"
+}

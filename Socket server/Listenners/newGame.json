@@ -1,0 +1,10 @@
+{
+    "error":"String",
+    "msg":"String",
+    "player1":"Number",
+    "player2":"Number",
+    "wonGames1":"Number",
+    "wonGames2":"Number",
+    "names":{ "player1":"String", "player2":"String"},
+    "tourID":"String"
+}

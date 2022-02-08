@@ -1,0 +1,3 @@
+{
+    "tour":"String with format yyyy-mm-dd-[shiftID] where shiftID is number from 1 to 3 specifying tour number in day"
+}
