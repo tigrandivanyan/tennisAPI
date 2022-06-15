@@ -1,5 +1,5 @@
 {
-    "scheduleStatus":"initial / latest",
+    "scheduleStatus":"initial / realtime / final",
     "schedule": [
         {
             "player1":{
