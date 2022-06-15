@@ -1,18 +1,18 @@
 [
     {
-        "changedName": "Ruzan",
+        "changerName": "Ruzan",
         "changeReason": "Something",
         "previousName": "Марианна Саакян",
         "newName": "Левик Хачатрян"
     },
     {
-        "changedName": "Ruzan",
+        "changerName": "Ruzan",
         "changeReason": "Another thing",
         "previousName": "Григор Тутунчян",
         "newName": "Акоп Оганисян"
     },
     {
-        "changedName": "Ruzan",
+        "changerName": "Ruzan",
         "changeReason": "Totally another thing",
         "previousName": "Володя Оганесян",
         "newName": "Сона Алавердян"
