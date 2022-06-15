@@ -1,0 +1,20 @@
+[
+    {
+        "id": "613a569b9ba279ec8b110d8a",
+        "name": "Мгер Караханян",
+        "occupation": "Игрок",
+        "deactivated": false
+    },
+    {
+        "id": "613a569b9baf79ec4b110d8a",
+        "name": "Мгер Караханян",
+        "occupation": "Судья",
+        "deactivated": true
+    },
+    {
+        "id": "613a569b9baf79ec8b110d6a",
+        "name": "Мгер Караханян",
+        "occupation": "Игрок",
+        "deactivated": false
+    }
+]
