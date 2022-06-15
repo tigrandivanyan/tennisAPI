@@ -1,8 +1,17 @@
 {
-    "gameStatus":"upcoming",
-    "people":{
-        "player1":"6195f4d5871c63006ae68588",
-        "player2":"6195f4d5871c63006ae68588",
-        "judge":"6195f4d5871c63006ae68588"
+    "gameStatus": "upcoming",
+    "participants": {
+        "player1": {
+            "id": "613a569b9baf79ec8b110d8a",
+            "name": "Мгер Караханян"
+        },
+        "player2": {
+            "id": "628d01993091b50908e93f1b",
+            "name": "Володя Кочарян"
+        },
+        "referee": {
+            "id": "6140908cd5cdb709257ea3d4",
+            "name": "Арам Арамян"
+        }
     }
 }
