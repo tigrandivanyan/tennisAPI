@@ -1,9 +1,6 @@
 {
-    "currentScore":"Boolean",
-    "specificSet":{
-        "tourID":"String",
-        "setNumber":"Number"
-    },
+    "gameID":"String",
+    "setNumber":"Number"
     "newScores":{
         "player1":"Number",
         "player2":"Number",        
