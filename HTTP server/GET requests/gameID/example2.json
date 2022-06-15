@@ -1,12 +1,21 @@
 {
-    "gameStatus":"in_process",
-    "people":{
-        "player1":"6195f4d5871c63006ae68588",
-        "player2":"6195f4d5871c63006ae68588",
-        "judge":"6195f4d5871c63006ae68588"
+    "gameStatus": "in_process",
+    "participants": {
+        "player1": {
+            "id": "613f82dab3101c526d1b5052",
+            "name": "Эмиль Погосян"
+        },
+        "player2": {
+            "id": "613f4228b3101c526d1b502b",
+            "name": "Нарек Григорян"
+        },
+        "referee": {
+            "id": "6140908cd5cdb709257ea3d4",
+            "name": "Арам Арамян"
+        }
     },
-    "wonGames1":"0",
-    "wonGames2":"3",
-    "finishedSetsQuantity":"2",
-    "startTime":"Thu Nov 18 2021 06:41:13 GMT+0000 (Coordinated Universal Time)"
+    "finishedSetsQuantity": 5,
+    "wonSets1": 0,
+    "wonSets2": 4,
+    "startTime": "Wed Jun 15 2022 13:16:19 GMT+0000 (Coordinated Universal Time)"
 }
