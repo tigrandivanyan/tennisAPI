@@ -7,5 +7,6 @@
         "player1": "String",
         "player2": "String"
     },
-    "reversed":"Boolean"
+    "reversed":"Boolean",
+    "source":"N/A",
 }
